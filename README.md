@@ -4,15 +4,39 @@ Awesome Deep Learning Computer Vision (CV) [![Awesome](https://cdn.rawgit.com/si
 Table of Contents
 ----
 - __[Benchmarks](#Benchmarks)__
+- __[Blogs](#Blogs)__
+- __[Datasets](#Datasets)__
 - __[Contributing](#contributing)__
 
 Benchmarks
 ----
-1. [NVIDIA RTX 2080 Ti Deep Learning Benchmarks for TensorFlow](https://blog.exxactcorp.com/nvidia-rtx-2080-ti-deep-learning-benchmarks-for-tensorflow-updated-with-xla-fp16/)
-2. [NVIDIA TITAN RTX Deep Learning Benchmarks for TensorFlow](https://blog.exxactcorp.com/titan-rtx-performance-benchmarks-for-tensorflow-2019/)
-3. [NVIDIA Quadro RTX 6000 Deep Learning Benchmarks for TensorFlow](https://blog.exxactcorp.com/nvidia-quadro-rtx-6000-gpu-performance-benchmarks-for-tensorflow/)
-4. [NVIDIA Quadro RTX 8000 Learning Benchmarks for TensorFlow](https://blog.exxactcorp.com/nvidia-quadro-rtx-8000-deep-learning-performance-benchmarks-for-tensorflow-2019/)
+1. [NVIDIA RTX 2080 Ti Deep Learning Benchmarks for TensorFlow](https://blog.exxactcorp.com/nvidia-rtx-2080-ti-deep-learning-benchmarks-for-tensorflow-updated-with-xla-fp16/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-Montantes-awesome-cv)
+2. [NVIDIA TITAN RTX Deep Learning Benchmarks for TensorFlow](https://blog.exxactcorp.com/titan-rtx-performance-benchmarks-for-tensorflow-2019/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-Montantes-awesome-cv)
+3. [NVIDIA Quadro RTX 6000 Deep Learning Benchmarks for TensorFlow](https://blog.exxactcorp.com/nvidia-quadro-rtx-6000-gpu-performance-benchmarks-for-tensorflow/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-Montantes-awesome-cv)
+4. [NVIDIA Quadro RTX 8000 Learning Benchmarks for TensorFlow](https://blog.exxactcorp.com/nvidia-quadro-rtx-8000-deep-learning-performance-benchmarks-for-tensorflow-2019/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-Montantes-awesome-cv)
 -----
+Blogs
+----
+1. [5 Applications of Computer Vision for Deep Learning](https://blog.exxactcorp.com/applications-of-computer-vision-for-deep-learning/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-Montantes-awesome-cv)
+2. [What You Should Know: Differences Between Computer Vision and Image Processing](https://blog.exxactcorp.com/what-you-should-know-differences-between-computer-vision-and-image-processing/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-Montantes-awesome-cv)
+3. [Beginner’s Guide: Image Recognition And Deep Learning](https://blog.exxactcorp.com/how-does-image-recognition-work-deep-learning-basics/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-Montantes-awesome-cv)
+4. [The Origins and Uses of Image Classification Using Deep Learning](https://blog.exxactcorp.com/origins-uses-image-classification-using-deep-learning/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-Montantes-awesome-cv)
+4. [Everyday Usages of Image Recognition](https://blog.exxactcorp.com/everyday-usages-of-image-recognition/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-Montantes-awesome-cv)
+----
+Datasets
+----
+1. [ImageNet Dataset](http://www.image-net.org/)
+2. [COCO Dataset](http://cocodataset.org/)
+3. [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#)
+4. [Open Images Dataset](https://storage.googleapis.com/openimages/web/factsfigures.html)
+5. [20BN-something-something Dataset V2](https://20bn.com/datasets/something-something/v2)
+[VisualData](https://www.visualdata.io/)
+6. [Car License Plate Detection Dataset](https://dataturks.com/projects/Mohan/Car%20License%20Plate%20Detection)
+7. [Visual Genome Dataset](http://visualgenome.org/api/v0/api_home.html)
+8. [Caltech 101 Dataset](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
+9. [LABELME Dataset](http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php)
+10.[IMDB-Wiki Dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
+----
 Contributing
 ----
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send me a pull request!
