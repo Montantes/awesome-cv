@@ -36,6 +36,7 @@ Datasets
 9. [LABELME Dataset](http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php)
 10. [IMDB-Wiki Dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 11. [VisualData](https://www.visualdata.io/)
+12. [Large-scale CelebFaces Attributes (CelebA) Dataset] (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 ----
 Contributing
