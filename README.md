@@ -14,6 +14,7 @@ Benchmarks
 2. [NVIDIA TITAN RTX Deep Learning Benchmarks for TensorFlow](https://blog.exxactcorp.com/titan-rtx-performance-benchmarks-for-tensorflow-2019/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-Montantes-awesome-cv)
 3. [NVIDIA Quadro RTX 6000 Deep Learning Benchmarks for TensorFlow](https://blog.exxactcorp.com/nvidia-quadro-rtx-6000-gpu-performance-benchmarks-for-tensorflow/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-Montantes-awesome-cv)
 4. [NVIDIA Quadro RTX 8000 Learning Benchmarks for TensorFlow](https://blog.exxactcorp.com/nvidia-quadro-rtx-8000-deep-learning-performance-benchmarks-for-tensorflow-2019/?utm_source=web%20referral&utm_medium=backlink&utm_campaign=github.com-Montantes-awesome-cv)
+5. [Titan V Benchmarks for Tensorflow](https://blog.exxactcorp.com/exxact-titan-v-workstation-crushes-deep-learning-performance-benchmarks-for-tensorflow/)
 -----
 Blogs
 ----
