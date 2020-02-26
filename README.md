@@ -39,7 +39,7 @@ Datasets
 11. [VisualData](https://www.visualdata.io/)
 12. [Large-scale CelebFaces Attributes (CelebA) Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 13. [A large annotated medical image dataset for the development and evaluation of segmentation algorithms (Medical Segmentation Decathalon)](http://medicaldecathlon.com/)
-14. [Open Images Dataset V5 + Extensions] (https://storage.googleapis.com/openimages/web/index.html)
+14. [Open Images Dataset V5 + Extensions](https://storage.googleapis.com/openimages/web/index.html)
 
 
 ----
