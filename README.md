@@ -40,7 +40,8 @@ Datasets
 12. [Large-scale CelebFaces Attributes (CelebA) Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 13. [A large annotated medical image dataset for the development and evaluation of segmentation algorithms (Medical Segmentation Decathalon)](http://medicaldecathlon.com/)
 14. [Open Images Dataset V5 + Extensions](https://storage.googleapis.com/openimages/web/index.html)
-15. [The Didi dataset: Digital Ink Diagram data](https://github.com/google-research/google-research/tree/master/didi_dataset)
+15. [Open Images V6 Crowdsourced Extension](https://storage.googleapis.com/openimages/web/extended.html)
+16. [The Didi dataset: Digital Ink Diagram data](https://github.com/google-research/google-research/tree/master/didi_dataset)
 
 
 ----
